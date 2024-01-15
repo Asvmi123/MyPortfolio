@@ -1,0 +1,17 @@
+
+.xx{
+    height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: #fff;
+}
+
+.viev{
+    font-size: 23px;
+    padding-bottom: 3px;
+}
+
+.ff{
+    padding-top: 20px;
+}
